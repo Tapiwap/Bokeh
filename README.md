@@ -9,7 +9,7 @@ basic plotting using Bokeh and transitions as per the tutorials on https://www.b
 ## Tools and Libraries
 
 ### Using 
-	**Bokeh Version 1.0.4**
+	**Bokeh Version 1.0.4** - updated to version ** 1.1.0** 
 	** Pandas**
 	** NumPy**
 	
